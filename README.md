@@ -7,4 +7,4 @@ I am **experienced QA Engineer** with a diverse background in software testing a
 - Please feel free to use the repo [Quiz for beginners in Data Science/ QA Engineers / Python / SQL](https://github.com/gavrie01/quiz_json)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,mongodb,firebase,vscode,postman&perline=13)](#)<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="SQL" alt="SQL" width="40" height="40"/>
+[![My Skills](https://skillicons.dev/icons?i=html,css,mongodb,firebase,vscode,postman,pytorch&perline=13)](#)<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="SQL" alt="SQL" width="40" height="40"/>
