@@ -9,7 +9,7 @@ I am **experienced QA Engineer** with a diverse background in software testing a
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **What I can:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,mongodb,firebase,vscode,postman,pytorch&perline=13)](#) 
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,mongodb,firebase,vscode,postman,pytorch&perline=13)](#) 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="SQL" alt="SQL" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>
