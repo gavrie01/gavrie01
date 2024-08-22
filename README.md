@@ -1,4 +1,4 @@
-## Hi there 👋
+## Here is Elena, nice to have you on my page :coffee:
 
 <!--
 **gavrie01/gavrie01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
