@@ -6,5 +6,5 @@ I am **experienced QA Engineer** with a diverse background in software testing a
 <a href="https://www.linkedin.com/in/elena-e-gavrilova/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a>
 - Please feel free to use the repo [Quiz for beginners in Data Science/ QA Engineers / Python / SQL](https://github.com/gavrie01/quiz_json)
 
-
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
 [![My Skills and Experience](https://skillicons.dev/icons?i=html,css,json,python,mongodb,git,github,vscode,swagger,postman,SQL, Data Science, Quality Assurance, NLP)](#)
