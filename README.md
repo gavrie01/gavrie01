@@ -7,3 +7,4 @@ I am **experienced QA Engineer** with a diverse background in software testing a
 - Please feel free to use the repo [Quiz for beginners in Data Science/ QA Engineers / Python / SQL](https://github.com/gavrie01/quiz_json)
 
 
+[![My Skills and Experience](https://skillicons.dev/icons?i=html,css,json,python,mongodb,git,github,vscode,swagger,postman,SQL, Data Science, Quality Assurance, NLP)](#)
