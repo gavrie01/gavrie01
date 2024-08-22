@@ -1,5 +1,5 @@
 ## Here is Elena, nice to have you on my page :coffee:
-
+I am experienced QA Engineer with a diverse background in software testing across numerous complex projects, including Web and Mobile applications. Currently expanding expertise in AI-driven Quality Assurance through continued education and personal projects.
 <!--
 **gavrie01/gavrie01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
