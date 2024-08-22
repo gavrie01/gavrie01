@@ -20,5 +20,5 @@ I am **experienced QA Engineer** with a diverse background in software testing a
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gavrie01&layout=compact&theme=dark)
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=white" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=white" />
 </p>p
