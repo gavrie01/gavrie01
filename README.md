@@ -20,7 +20,7 @@ I am **experienced QA Engineer** with a diverse background in software testing a
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gavrie01&layout=compact&theme=dark)
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=green&height=100&section=footer" />
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=green&height=100&section=footer" />
 </p>
 
 
