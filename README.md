@@ -8,8 +8,7 @@ I am **experienced QA Engineer** with a diverse background in software testing a
 - Please feel free to use the repo [Quiz for beginners in Data Science/ QA Engineers / Python / SQL](https://github.com/gavrie01/quiz_json)
 
 
-<br>
-<div align="center">
+
 <img alt="Python" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" />
 <img alt="HTML" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" title="HTML" />
 <img alt="CSS" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" title="CSS" />
@@ -35,7 +34,7 @@ I am **experienced QA Engineer** with a diverse background in software testing a
 <img alt="Swagger" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" title="Swagger" />
 <img alt="Anaconda" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" title="Anaconda" /> 
 <img alt="openAI" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openapi/openapi-original.svg" title="openAI" /> 
-</div>
+
 
 <br>
 <div align="center">
