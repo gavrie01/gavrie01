@@ -8,6 +8,20 @@ I am **experienced QA Engineer** with a diverse background in software testing a
 - Please feel free to use the repo [Quiz for beginners in Data Science/ QA Engineers / Python / SQL](https://github.com/gavrie01/quiz_json)
 
 
+<br>
+<div align="center">
+<img alt="Python" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img alt="HTML" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img alt="CSS" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img alt="Mysql" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img alt="bootstrap" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+<img alt="VsCode" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img alt="Git" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img alt="Docker" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+<img alt="Figma" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+</div>
+<br>
+
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
