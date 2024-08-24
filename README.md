@@ -26,7 +26,7 @@ I am **experienced QA Engineer** with a diverse background in software testing a
 <img alt="json" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" title="PyTorch" />
 <img alt="Jupyter" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="PyTorch" />
 <img alt="MongoDB" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="PyTorch" />
-<img alt="Pandas" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas-original.svg" title="PyTorch" />
+<img alt="Pandas" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="PyTorch" />
 <img alt="Numpy" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="PyTorch" />
 <img alt="PostgreSQL" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PyTorch" />
 <img alt="Pycharm" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" title="PyTorch" />
