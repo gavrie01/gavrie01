@@ -2,9 +2,10 @@
 I am **experienced QA Engineer** with a diverse background in software testing across numerous complex projects, including Web and Mobile applications. Currently expanding expertise in **Python** and **AI-driven** solutions. I'm particularly interested in **Natural Language Processing, Data Engineering and their combination with Quality Assurance**.
 
 Let me also thank you in advance for the given ⭐s and your visits, I appreciate it!
+
+<br>
 <br>
 ![GitHub Stars](https://img.shields.io/github/stars/gavrie01?style=social)
-<br>
 ![GitHub Followers](https://img.shields.io/github/followers/gavrie01?style=social)
 
 - contact me at:
