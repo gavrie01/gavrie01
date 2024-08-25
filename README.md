@@ -1,7 +1,7 @@
 ## Here is Elena, nice to have you on my page 🤗:
 I am **experienced QA Engineer** with a diverse background in software testing across numerous complex projects, including Web and Mobile applications. Currently expanding expertise in **Python** and **AI-driven** solutions. I'm particularly interested in **Natural Language Processing, Data Engineering and their combination with Quality Assurance**.
 
-Let me also thank you in advance for the given ⭐s and your visits, I appreciate it! ![Stars](https://img.shields.io/github/stars/gavrie01?style=social) ![Followers](https://img.shields.io/github/followers/gavrie01?style=social)
+Let me also thank you in advance for the given ⭐s and your visits, I appreciate it!
 
 
 - contact me at:
