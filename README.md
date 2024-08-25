@@ -3,7 +3,7 @@ I am **experienced QA Engineer** with a diverse background in software testing a
 
 Let me also thank you in advance for the given ⭐s and your visits, I appreciate it!
 
-![GitHub Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=social) ![GitHub Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=social)
+![Stars](https://img.shields.io/github/stars/gavrie01?style=social) ![Followers](https://img.shields.io/github/followers/gavrie01?style=social)
 
 
 <br>
