@@ -3,8 +3,6 @@ I am **experienced QA Engineer** with a diverse background in software testing a
 
 Let me also thank you in advance for the given ⭐s and your visits, I appreciate it!
 
-![My stars](https://github-readme-stats.vercel.app/api?username=gavrie01&show_icons=true&count_private=true)
-
 - contact me at:
 <a href="mailto:elena.e.gav@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a>
 <a href="https://www.linkedin.com/in/elena-e-gavrilova/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a>
