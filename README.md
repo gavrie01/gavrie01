@@ -3,10 +3,9 @@ I am **experienced QA Engineer** with a diverse background in software testing a
 
 Let me also thank you in advance for the given ⭐s and your visits, I appreciate it!
 
-<div align="center" style="white-space: nowrap;">
-![GitHub Stars](https://img.shields.io/github/stars/gavrie01?style=social)
-![GitHub Followers](https://img.shields.io/github/followers/gavrie01?style=social)
-</div>
+![GitHub Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=social) ![GitHub Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=social)
+
+
 <br>
 - contact me at:
 <a href="mailto:elena.e.gav@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a>
