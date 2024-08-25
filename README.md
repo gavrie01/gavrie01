@@ -2,7 +2,7 @@
 I am **experienced QA Engineer** with a diverse background in software testing across numerous complex projects, including Web and Mobile applications. Currently expanding expertise in **Python** and **AI-driven** solutions. I'm particularly interested in **Natural Language Processing, Data Engineering and their combination with Quality Assurance**.
 
 Let me also thank you in advance for the given ⭐s and your visits, I appreciate it!
-![GitHub Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/gavrie01?style=social)
 
 - contact me at:
 <a href="mailto:elena.e.gav@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a>
