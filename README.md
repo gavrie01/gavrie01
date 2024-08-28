@@ -39,13 +39,6 @@ Let me also thank you in advance for the given ⭐s and your visits, I appreciat
 <img alt="PyTorch" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" />
 </div>
 
-<br>
-
-<p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/gavrie01/count.svg" />
-</p>
-
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
