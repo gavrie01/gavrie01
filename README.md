@@ -42,7 +42,7 @@ Let me also thank you in advance for the given ⭐s and your visits, I appreciat
 
 <p align="center">
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/gavrie01/count.svg" />
+  <img src="https://profile-counter.glitch.me/_gavrie01/count.svg" />
 </p>
 
 
